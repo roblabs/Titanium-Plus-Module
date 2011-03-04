@@ -34,7 +34,8 @@ public class ComRoblabsModuleCalcModule extends KrollModule
 	@Kroll.method
 	public String example() {
 		Log.d(LCAT, "example called");
-		return "hello world";
+    int year = 2011;
+		return "hello world, the year is " + 2011;
 	}
 	
 	// Properties
