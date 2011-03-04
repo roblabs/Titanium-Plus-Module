@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2010 by Your Company
+
+
+# these should not be edited
+name: com.roblabs.module.calc
+moduleid: com.roblabs.module.calc
+guid: 5b825dc9-e619-4317-9a72-ee37a66b63e5
+platform: android
+minsdk: 1.5.0
